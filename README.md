@@ -4,11 +4,6 @@
 
 ![EditorJS](quill.png)
 
-## Instalação
-
-- Instale em seu terminal o Parcel. Ele é um empacotador de aplicação web. Servirá para executar sua aplicação em seu browser na url localhost:1234
-
-`npm install -g parcel-bundler`
 
 ## Clonar
 
